@@ -1,0 +1,22 @@
+# Core ML
+torch==2.11.0
+transformers==4.40.1
+sentence-transformers==2.7.0
+datasets==2.19.1
+
+# Audio
+openai-whisper==20231117
+ffmpeg-python==0.2.0
+
+# Vector store
+chromadb==0.5.0
+
+# Summarisation
+accelerate==0.29.3
+
+# UI
+gradio==4.31.0
+
+# Utilities
+numpy==1.26.4
+requests==2.31.0
