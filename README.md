@@ -1,6 +1,6 @@
 ---
 title: Lecture Summarizer
-emoji: 🎓
+
 
 ---
 
@@ -53,7 +53,7 @@ export HF_TOKEN=hf_your_token_here
 python app.py
 ```
 
-## Project structure
+## structure
 
 ```
 lecture-summarizer/
